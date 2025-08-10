@@ -13,7 +13,7 @@ Computer Science student at University of Piraeus | Passionate about Artificial 
 
 ## Projects
 
- ## 🤖 Intelligent PDF QA Agent
+ ## 🤖 [Intelligent PDF QA Agent](https://github.com/GiampouranisGi/Intelligent_PDF_QA_Agent)
 
 A system that processes PDF documents and answers user questions based on the document’s content.  
 
